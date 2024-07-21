@@ -1,0 +1,5 @@
+**/venv/
+**/*.html
+**/*.docx
+**/*.epub
+**/*.pdf
